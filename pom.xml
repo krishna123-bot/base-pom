@@ -14,7 +14,7 @@
    <groupId>com.bernardomg.maven</groupId>
    <artifactId>base-pom</artifactId>
    <version>1.5.11</version>
-   <packaging>pom.xml</packaging>
+   <packaging>war</packaging>
 
    <name>Base POM</name>
    <description>Generic base POM for Maven-based Java projects.</description>
